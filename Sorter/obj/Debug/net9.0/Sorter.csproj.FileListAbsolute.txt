@@ -1,0 +1,14 @@
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\bin\Debug\net9.0\Sorter.exe
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\bin\Debug\net9.0\Sorter.deps.json
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\bin\Debug\net9.0\Sorter.runtimeconfig.json
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\bin\Debug\net9.0\Sorter.dll
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\bin\Debug\net9.0\Sorter.pdb
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.AssemblyInfoInputs.cache
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.AssemblyInfo.cs
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.csproj.CoreCompileInputs.cache
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.dll
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\refint\Sorter.dll
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.pdb
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.genruntimeconfig.cache
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\ref\Sorter.dll
