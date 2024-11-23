@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj": {}
+    "E:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj": {}
   },
   "projects": {
-    "e:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj": {
+    "E:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj",
+        "projectUniqueName": "E:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj",
         "projectName": "Sorter",
-        "projectPath": "e:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj",
+        "projectPath": "E:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\Sorter.csproj",
         "packagesPath": "C:\\Users\\Deathcap\\.nuget\\packages\\",
-        "outputPath": "e:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\obj\\",
+        "outputPath": "E:\\McMaster Courses\\Current -Fall24\\Parallel Programming - 4CC3 - Friday\\Final\\Sorter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deathcap\\AppData\\Roaming\\NuGet\\NuGet.Config",
