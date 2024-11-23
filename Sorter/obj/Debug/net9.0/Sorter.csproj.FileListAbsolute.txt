@@ -12,3 +12,4 @@ e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\S
 e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.pdb
 e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.genruntimeconfig.cache
 e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\ref\Sorter.dll
+e:\McMaster Courses\Current -Fall24\Parallel Programming - 4CC3 - Friday\Final\Sorter\obj\Debug\net9.0\Sorter.sourcelink.json
